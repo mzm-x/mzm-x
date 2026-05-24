@@ -213,6 +213,24 @@ stack:    paid channels · SEO · e-commerce · product
 
 ---
 
+### 📡 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mzm-x&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mzm-x&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mzm-x&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mzm-x&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mzm-x&theme=tokyonight&utcOffset=7" />
+</p>
+
+---
+
 <p align="center">
   <sub>
     🏗️ Currently scaling things at <a href="https://pintarnya.com">Pintarnya</a> · 🛒 Building <a href="https://revesery.store">revesery.store</a> · 💬 <a href="https://jen.my.id">jen.my.id</a> for everything else
