@@ -55,12 +55,6 @@ mode:     experimenting + shipping fast
   <img src="https://img.shields.io/badge/May-4.23-EA580C?style=flat-square"/>
   →
   <img src="https://img.shields.io/badge/Jun-6.92-16A34A?style=flat-square"/>
-  &nbsp;
-  <strong>(+201% MoM)</strong>
-</p>
-
-<p align="center">
-  <em>Cara: kill underperformers fast, double down on winners, never trust gut over data.</em>
 </p>
 
 ---
@@ -201,10 +195,6 @@ mode:     experimenting + shipping fast
 
 <p align="center">
   <sub>💬 <a href="https://jen.my.id">jen.my.id</a> for everything else</sub>
-</p>
-
-<p align="center">
-  <sub><em>"Cara grow: experiment fast, kill yang gak jalan, double yang jalan."</em></sub>
 </p>
 
 <p align="center">
