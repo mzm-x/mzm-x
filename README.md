@@ -205,19 +205,10 @@ stack:    paid channels · SEO · e-commerce · product
 
 ---
 
-### 📫 Reach Me
+### ⏱️ Coding Time (Wakatime)
 
 <p align="center">
-  <a href="https://jen.my.id"><img src="https://img.shields.io/badge/Website-jen.my.id-2563EB?style=for-the-badge&logo=safari&logoColor=white"/></a>
-  <a href="mailto:digitalsolutions@pintarnya.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mzm-x"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mzm_x"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/mzm.x"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://revesery.store"><img src="https://img.shields.io/badge/Shop-revesery.store-EC4899?style=for-the-badge&logo=shopify&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <sub>📍 Bandung, Indonesia · 🇮🇩 Open for: growth consulting, ad ops, technical SEO audits, product collabs</sub>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mzm-x&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9&layout=compact&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
