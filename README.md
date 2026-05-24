@@ -137,8 +137,12 @@ stack:    paid channels · SEO · e-commerce · product
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mzm-x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzm-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mzm-x&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzm-x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=C9D1D9&langs_count=8&cache_seconds=1800" />
+  </a>
 </p>
 
 <p align="center">
@@ -171,10 +175,49 @@ stack:    paid channels · SEO · e-commerce · product
 
 ---
 
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/mzm-x/revesery-flutter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=revesery-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/mzm-x/folkative">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=folkative&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mzm-x/teleinvite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=teleinvite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/mzm-x/password">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=password&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
+  </a>
+</p>
+
+---
+
 ### 🎲 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Reach Me
+
+<p align="center">
+  <a href="https://jen.my.id"><img src="https://img.shields.io/badge/Website-jen.my.id-2563EB?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="mailto:digitalsolutions@pintarnya.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mzm-x"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/mzm_x"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/mzm.x"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://revesery.store"><img src="https://img.shields.io/badge/Shop-revesery.store-EC4899?style=for-the-badge&logo=shopify&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <sub>📍 Bandung, Indonesia · 🇮🇩 Open for: growth consulting, ad ops, technical SEO audits, product collabs</sub>
 </p>
 
 ---
@@ -187,4 +230,8 @@ stack:    paid channels · SEO · e-commerce · product
 
 <p align="center">
   <sub><em>"Cara grow: experiment fast, kill yang gak jalan, double yang jalan."</em></sub>
+</p>
+
+<p align="center">
+  <sub>⚡ Last updated: <img src="https://img.shields.io/github/last-commit/mzm-x/mzm-x?label=&style=flat-square&color=2563EB" /></sub>
 </p>
