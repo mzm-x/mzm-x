@@ -175,40 +175,10 @@ stack:    paid channels · SEO · e-commerce · product
 
 ---
 
-### 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/mzm-x/revesery-flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=revesery-flutter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/mzm-x/folkative">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=folkative&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mzm-x/teleinvite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=teleinvite&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/mzm-x/password">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mzm-x&repo=password&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9" />
-  </a>
-</p>
-
----
-
 ### 🎲 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-### ⏱️ Coding Time (Wakatime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mzm-x&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=EC4899&text_color=C9D1D9&layout=compact&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
