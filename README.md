@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Growth+Marketer+%E2%9A%A1+Full-Funnel+Operator;Acquisition+%E2%86%92+Retention+%E2%86%92+Revenue;Building+revesery.store+%26+hits+company;Always+experimenting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Growth+Marketer+%E2%9A%A1+Full-Funnel+Operator;Acquisition+%E2%86%92+Retention+%E2%86%92+Revenue;Always+experimenting+%E2%80%A2+data-driven" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,10 +18,8 @@
 
 ```yaml
 focus:    growth · business · tech
-now:      Growth at Pintarnya
-building: revesery.store, hits company
-prev:     Bukalapak · Dompet Kilat · Hacktiv8
 stack:    paid channels · SEO · e-commerce · product
+mode:     experimenting + shipping fast
 ```
 
 ---
@@ -202,9 +200,7 @@ stack:    paid channels · SEO · e-commerce · product
 ---
 
 <p align="center">
-  <sub>
-    🏗️ Currently scaling things at <a href="https://pintarnya.com">Pintarnya</a> · 🛒 Building <a href="https://revesery.store">revesery.store</a> · 💬 <a href="https://jen.my.id">jen.my.id</a> for everything else
-  </sub>
+  <sub>💬 <a href="https://jen.my.id">jen.my.id</a> for everything else</sub>
 </p>
 
 <p align="center">
