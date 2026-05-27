@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Growth+Marketer+%E2%9A%A1+Full-Funnel+Operator;Acquisition+%E2%86%92+Retention+%E2%86%92+Revenue;Always+experimenting+%E2%80%A2+data-driven" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Growth+Marketer+%C3%97+Builder;Turn+traffic+into+revenue;Experiment+%E2%86%92+ship+%E2%86%92+measure+%E2%86%92+repeat;Optimized+everything+except+my+sleep+schedule" alt="Typing SVG" />
 </p>
 
 <p align="center">
